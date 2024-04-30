@@ -88,7 +88,7 @@ function randomize() {
 function startPopupSequence() {
     window.popupInterval = setInterval(() => {
         openPopup();
-    }, 7000); 
+    }, 3000); 
 }
 
 function openPopup() {
